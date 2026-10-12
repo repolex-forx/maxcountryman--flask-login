@@ -1,0 +1,11 @@
+{
+  "org": "maxcountryman",
+  "repo": "flask-login",
+  "versions": [
+    {
+      "commit": "c8bba84b9ba6768e878317fc46c54bd13fa1ac07",
+      "tag": "",
+      "parsed_at": "2026-10-12T20:19:52.172094+00:00"
+    }
+  ]
+}
