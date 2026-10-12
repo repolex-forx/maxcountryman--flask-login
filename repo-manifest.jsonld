@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/maxcountryman/flask-login/commit/c8bba84b9ba6768e878317fc46c54bd13fa1ac07",
       "git:hexsha": "c8bba84b9ba6768e878317fc46c54bd13fa1ac07",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T20:19:52.171488+00:00"
     },
     {
       "@id": "https://repolex.ai/r/maxcountryman/flask-login/commit/f07abd02547ed2ed3a35bbf3101a2523415d47fd",
